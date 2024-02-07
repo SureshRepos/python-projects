@@ -1,0 +1,13 @@
+streamlit
+
+#langchain
+
+langchain_community
+
+openai
+
+wikipedia
+
+chromadb
+
+tiktoken
